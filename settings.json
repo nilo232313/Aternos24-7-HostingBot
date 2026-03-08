@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "PREMUIMSERVER.aternos.me:64803",
+    "ip": "PREMUIMSERVER.aternos.me",
     "port": 64803,
     "version": "1.21.11"
   },
