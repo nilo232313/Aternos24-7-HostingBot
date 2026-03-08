@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "PREMUIMSERVER.aternos.me:64803",
+    "port": 64803,
     "version": "1.21.1"
   },
   "position": {
